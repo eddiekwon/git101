@@ -27,8 +27,7 @@ $ git reset HEAD~2 // 마지막 2개의 commit을 취소
 
 // commit을 취소 + 파일들은 unstaged 상태 작업 폴더에서 모두 제거
 $ git reset --hard HEAD^
-```
-참고: https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
+``` 
 
 * 첨언: `-hard` 옵션은 모든 것을 취소시켜버리므로 주의해야 함
 
