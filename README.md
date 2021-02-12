@@ -30,8 +30,9 @@ $ git reset --hard HEAD^
 ```
 참고: https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 
-첨언: `-hard` 옵션은 모든 것을 취소시켜버리므로 주의해야 함
-첨언: `-mixed` 가 기본 옵션/설정 임
+* 첨언: `-hard` 옵션은 모든 것을 취소시켜버리므로 주의해야 함
+
+* 첨언: `-mixed` 가 기본 옵션/설정 임
 
 ```
 git reset --soft
